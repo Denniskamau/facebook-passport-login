@@ -8,7 +8,7 @@ To find out more about passport.js check out [passport.js](http://passportjs.org
 
 Git clone this repository 
 
-`git clone https://github.com/cysectsolution/Social-Authentication.git `
+`git clone https://github.com/Denniskamau/facebook-passport-login.git`
 
 Install the required packages 
 
